@@ -624,10 +624,11 @@ q {
 
 .whos-on-first-step2-table {
 	width: 105%;
-    font-size: 0.9em;
+    /* font-size: 0.9em; */
 }
 
 .whos-on-first-step2-table th {
+    /* font-size: 1em; */
     padding-left: .2em;
 	padding-right: .2em;
 	padding-top: .15em;
@@ -635,7 +636,7 @@ q {
 }
 
 .whos-on-first-step2-table td {
-    font-size: .7em;
+    font-size: .74em;
 }
 
 
